@@ -9,3 +9,14 @@ body, html{
 	margin: 0;
 
 }
+
+.alert-dark{
+	height: 30px;
+	text-align: center;
+	margin: 0;
+	background: #84e1e1;
+	color: white;
+	font-family: 'Teko', sans-serif;
+	font-size: 25px;
+	padding: 10px 0;
+}
